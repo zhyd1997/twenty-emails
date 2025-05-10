@@ -1,8 +1,33 @@
 {
+  "name": "20-emails",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyd1997/twenty-emails.git"
+  },
+  "keywords": [
+    "IMAP",
+    "SMTP"
+  ],
+  "author": {
+    "name": "Yadong(Adam) Zhang",
+    "email": "zhyd007@gmail.com",
+    "url": "https://github.com/zhyd1997"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhyd1997/twenty-emails/issues"
+  },
+  "homepage": "https://github.com/zhyd1997/twenty-emails#readme",
   "dependencies": {
     "dotenv": "^16.5.0",
     "imapflow": "^1.0.186",
     "mailparser": "^3.7.2",
     "nodemailer": "^7.0.3"
-  }
+  },
+  "devDependencies": {}
 }
