@@ -7,3 +7,5 @@ node send.js
 # watch on mailbox
 node receive.js
 ```
+
+> Note: Emails sent using basic SMTP are likely to end up in the spam folder.
